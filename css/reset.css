@@ -41,7 +41,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-img,video,canvas {
+img, video, canvas {
   max-width: 100%;
   height: auto !important;
 }
