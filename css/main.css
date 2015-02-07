@@ -1,5 +1,26 @@
+/*==============================================
+	GENERAL 
+==============================================*/
 body {
 	font-family: "Noto Sans", Helvetica, Arial;
 	padding: 0;
 	margin: 0;
 }
+
+.bgc-blue{
+	background-color: #043d5d ;
+}
+
+.bgc-green{
+	background-color: #68c39f ;
+}
+
+.container{
+	width: 970px;
+	margin: 0 auto;
+}
+
+/*==============================================
+	ABOUT
+==============================================*/
+
